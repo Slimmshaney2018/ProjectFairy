@@ -1,0 +1,16 @@
+"a" = (/turf/dense,/area)
+"b" = (/turf/Grass,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaa
+bbbbbbbbbba
+bbbbbbbbbba
+bbbbbbbbbba
+bbbbbbbbbba
+bbbbbbbbbba
+bbbbbbbbbba
+bbbbbbbbbba
+bbbbbbbbbba
+bbbbbbbbbba
+bbbbbbbbbba
+"}

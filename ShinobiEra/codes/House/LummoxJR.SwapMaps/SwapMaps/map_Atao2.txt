@@ -1,0 +1,2954 @@
+. = object("//.0")
+.0
+	type = /swapmap
+	id = "Atao2"
+	z = 1
+	y = 40
+	x = 10
+	areas = list()
+	1
+		1
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		2
+			1
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		3
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		4
+			1
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				contents = list(object(".0"))
+					.0
+						type = /obj/gold
+						vis_contents = list()
+						transform = object(".0")
+							.0
+								type = /matrix
+						filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		5
+			1
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				contents = list(object(".0"))
+					.0
+						type = /obj/gold
+						vis_contents = list()
+						transform = object(".0")
+							.0
+								type = /matrix
+						filters = list()
+			3
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				icon = "blotch"
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		6
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				icon = "blotch"
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		7
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				icon = "blotch"
+			6
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		8
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		9
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				contents = list(object(".0"))
+					.0
+						type = /obj/gold
+						vis_contents = list()
+						transform = object(".0")
+							.0
+								type = /matrix
+						filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		10
+			1
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				icon = "blotch"
+			2
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				icon = "blotch"
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		11
+			1
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				icon = "blotch"
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				contents = list(object(".0"))
+					.0
+						type = /obj/gold
+						vis_contents = list()
+						transform = object(".0")
+							.0
+								type = /matrix
+						filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				icon = "blotch"
+			10
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		12
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				icon = "blotch"
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		13
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		14
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		15
+			1
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				contents = list(object(".0"))
+					.0
+						type = /obj/gold
+						vis_contents = list()
+						transform = object(".0")
+							.0
+								type = /matrix
+						filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		16
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		17
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		18
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				icon = "blotch"
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				icon = "blotch"
+		19
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		20
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		21
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				icon = "blotch"
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				icon = "blotch"
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				contents = list(object(".0"))
+					.0
+						type = /obj/gold
+						vis_contents = list()
+						transform = object(".0")
+							.0
+								type = /matrix
+						filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		22
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				contents = list(object(".0"))
+					.0
+						type = /obj/gold
+						vis_contents = list()
+						transform = object(".0")
+							.0
+								type = /matrix
+						filters = list()
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				contents = list(object(".0"))
+					.0
+						type = /obj/gold
+						vis_contents = list()
+						transform = object(".0")
+							.0
+								type = /matrix
+						filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		23
+			1
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		24
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		25
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				contents = list(object(".0"))
+					.0
+						type = /obj/gold
+						vis_contents = list()
+						transform = object(".0")
+							.0
+								type = /matrix
+						filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		26
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		27
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				icon = "blotch"
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		28
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		29
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		30
+			1
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		31
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				icon = "blotch"
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		32
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				contents = list(object(".0"))
+					.0
+						type = /obj/gold
+						vis_contents = list()
+						transform = object(".0")
+							.0
+								type = /matrix
+						filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				icon = "blotch"
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		33
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		34
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		35
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				icon = "blotch"
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		36
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		37
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		38
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		39
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				icon = "blotch"
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			9
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+		40
+			1
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			7
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			8
+				type = /turf/dirt
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				contents = list(object(".0"))
+					.0
+						type = /obj/gold
+						vis_contents = list()
+						transform = object(".0")
+							.0
+								type = /matrix
+						filters = list()
+			9
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			10
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()

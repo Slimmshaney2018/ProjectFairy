@@ -1,0 +1,116 @@
+macro "macro"
+	elem 
+		name = "Center+REP"
+		command = ".center"
+	elem 
+		name = "Northeast+REP"
+		command = ".northeast"
+	elem 
+		name = "Southeast+REP"
+		command = ".southeast"
+	elem 
+		name = "Southwest+REP"
+		command = ".southwest"
+	elem 
+		name = "Northwest+REP"
+		command = ".northwest"
+	elem 
+		name = "West+REP"
+		command = ".west"
+	elem 
+		name = "North+REP"
+		command = ".north"
+	elem 
+		name = "East+REP"
+		command = ".east"
+	elem 
+		name = "South+REP"
+		command = ".south"
+
+
+menu "menu"
+	elem 
+		name = "&Quit"
+		command = ".quit"
+		category = "&File"
+		saved-params = "is-checked"
+
+
+window "default"
+	elem "default"
+		type = MAIN
+		pos = 281,0
+		size = 921x530
+		anchor1 = none
+		anchor2 = none
+		is-default = true
+		saved-params = "pos;size;is-minimized;is-maximized"
+		statusbar = false
+		macro = "macro"
+		menu = "menu"
+	elem "map1"
+		type = MAP
+		pos = 0,0
+		size = 921x530
+		anchor1 = 0,0
+		anchor2 = 100,100
+		is-default = true
+		saved-params = "zoom;letterbox;zoom-mode"
+
+window "chat"
+	elem "chat"
+		type = MAIN
+		pos = 281,0
+		size = 789x351
+		anchor1 = none
+		anchor2 = none
+		background-color = #ff0080
+		is-visible = false
+		saved-params = "pos;size;is-maximized"
+		statusbar = false
+		can-minimize = false
+		transparent-color = #ff0080
+		macro = "macro"
+	elem "output1"
+		type = OUTPUT
+		pos = 0,0
+		size = 788x264
+		anchor1 = 0,0
+		anchor2 = 100,85
+		font-size = 10
+		text-color = #ffffff
+		background-color = #ff0080
+		is-default = true
+		saved-params = "max-lines"
+		max-lines = 0
+	elem "input1"
+		type = INPUT
+		pos = 0,328
+		size = 789x20
+		anchor1 = 0,85
+		anchor2 = 100,98
+		font-size = 10
+		text-color = #ffffff
+		background-color = #ff0080
+		border = line
+		saved-params = ""
+		command = "say"
+
+window "info"
+	elem "info"
+		type = MAIN
+		pos = 281,0
+		size = 202x212
+		anchor1 = none
+		anchor2 = none
+		background-color = none
+		saved-params = "pos;size;is-minimized;is-maximized"
+	elem "info2"
+		type = INFO
+		pos = 0,0
+		size = 200x200
+		anchor1 = none
+		anchor2 = none
+		saved-params = ""
+		tab-background-color = none
+

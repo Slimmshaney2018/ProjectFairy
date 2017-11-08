@@ -1,0 +1,305 @@
+. = object("//.0")
+.0
+	type = /swapmap
+	id = "chunk"
+	z = 1
+	y = 4
+	x = 6
+	areas = list(object(".0"),object(".1"),object(".2"))
+		.0
+			type = /area
+			tag = "1"
+			transform = object(".0")
+				.0
+					type = /matrix
+			filters = list()
+		.1
+			type = /area
+			tag = "2"
+			transform = object(".0")
+				.0
+					type = /matrix
+			filters = list()
+		.2
+			type = /area
+			tag = "3"
+			transform = object(".0")
+				.0
+					type = /matrix
+			filters = list()
+	1
+		1
+			1
+				type = /turf/ground
+				AREA = 1
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				AREA = 1
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				AREA = 1
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				AREA = 1
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				AREA = 1
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				contents = list(object(".0"))
+					.0
+						type = /obj/fence
+						vis_contents = list()
+						transform = object(".0")
+							.0
+								type = /matrix
+						filters = list()
+		2
+			1
+				type = /turf/ground
+				AREA = 1
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				AREA = 1
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				contents = list(object(".0"))
+					.0
+						type = /obj
+						vis_contents = list()
+						text = "<FONT COLOR=red BGCOLOR=gold>gold"
+						density = 1
+						transform = object(".0")
+							.0
+								type = /matrix
+						filters = list()
+			3
+				type = /turf/ground
+				AREA = 1
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				AREA = 1
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				contents = list(object(".0"))
+					.0
+						type = /obj/gold
+						vis_contents = list()
+						transform = object(".0")
+							.0
+								type = /matrix
+						filters = list()
+			5
+				type = /turf/ground
+				AREA = 1
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				contents = list(object(".0"))
+					.0
+						type = /obj/fence
+						vis_contents = list()
+						transform = object(".0")
+							.0
+								type = /matrix
+						filters = list()
+		3
+			1
+				type = /turf/ground
+				AREA = 2
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			2
+				type = /turf/ground
+				AREA = 2
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				contents = list(object(".0"))
+					.0
+						type = /obj/fence
+						vis_contents = list()
+						transform = object(".0")
+							.0
+								type = /matrix
+						filters = list()
+		4
+			1
+				type = /turf/ground
+				AREA = 3
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				contents = list(object(".0"))
+					.0
+						type = /obj/fence
+						vis_contents = list()
+						transform = object(".0")
+							.0
+								type = /matrix
+						filters = list()
+			2
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				contents = list(object(".0"))
+					.0
+						type = /obj/fence
+						vis_contents = list()
+						transform = object(".0")
+							.0
+								type = /matrix
+						filters = list()
+			3
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				contents = list(object(".0"))
+					.0
+						type = /obj/fence
+						vis_contents = list()
+						transform = object(".0")
+							.0
+								type = /matrix
+						filters = list()
+			4
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				contents = list(object(".0"))
+					.0
+						type = /obj/fence
+						vis_contents = list()
+						transform = object(".0")
+							.0
+								type = /matrix
+						filters = list()
+			5
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				contents = list(object(".0"))
+					.0
+						type = /obj/fence
+						vis_contents = list()
+						transform = object(".0")
+							.0
+								type = /matrix
+						filters = list()
+			6
+				type = /turf/ground
+				vis_contents = list()
+				transform = object(".0")
+					.0
+						type = /matrix
+				filters = list()
+				contents = list(object(".0"))
+					.0
+						type = /obj/fence
+						vis_contents = list()
+						transform = object(".0")
+							.0
+								type = /matrix
+						filters = list()

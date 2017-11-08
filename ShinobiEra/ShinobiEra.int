@@ -1,0 +1,11 @@
+// BEGIN_INTERNALS
+/*
+LAST_COMPILE_TIME: 1510109850
+DIR: Codes Codes\Attack&Skill Codes\Attack&Skill\Hotkey Codes\Attack&Skill\Jutsus Codes\Attack&Skill\skilltree Codes\House Codes\House\LummoxJR.SwapMaps Codes\House\LummoxJR.SwapMaps\SwapMaps Codes\Others Codes\Others\Chatbox\code Codes\Others\Display HUD Codes\Others\movement Codes\Others\movement\Woo.GapNudgeMovement Icon\basethings Icon\Skillcards Maps 
+AUTO_FILE_DIR: ON
+MAP_ICON_TYPE: 0
+LAST_COMPILE_VERSION: 512.1393
+WINDOW: Maps\firstcity.dmm;Codes\Others\Chatbox\code\chatbox_gui.dm;Codes\Attack&Skill\projectiles.dm;Codes\Others\Display HUD\_example.dm;Codes\Others\movement\Woo.GapNudgeMovement\movement.dm;Codes\Notification.dm;Codes\Attack&Skill\Hotkey\Hotkeys.dm;Codes\Attack&Skill\SkillProcs.dm
+FILE: Codes\Others\Display HUD\_example.dm
+*/
+// END_INTERNALS

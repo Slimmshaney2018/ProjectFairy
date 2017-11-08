@@ -1,0 +1,96 @@
+// DM Environment file for JogoQueNaoSeiOnome.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "Codes"
+#define FILE_DIR "Codes/Attack&Skill"
+#define FILE_DIR "Codes/Attack&Skill/effectssystem"
+#define FILE_DIR "Codes/Attack&Skill/f_damage"
+#define FILE_DIR "Codes/Attack&Skill/f_damage/demo"
+#define FILE_DIR "Codes/Attack&Skill/Hotkey"
+#define FILE_DIR "Codes/Attack&Skill/skilltree"
+#define FILE_DIR "Codes/House"
+#define FILE_DIR "Codes/House/LummoxJR.SwapMaps"
+#define FILE_DIR "Codes/House/LummoxJR.SwapMaps/SwapMaps"
+#define FILE_DIR "Codes/House/Dession.SwapMapsHousing"
+#define FILE_DIR "Codes/House/Dession.SwapMapsHousing/SwapMaps Housing"
+#define FILE_DIR "Codes/House/Demos%2FCloneMap_src"
+#define FILE_DIR "Codes/House/Demos%2FCloneMap_src/CloneMap"
+#define FILE_DIR "Codes/Others"
+#define FILE_DIR "Codes/Others/Kumorii.Kii_Rain"
+#define FILE_DIR "Codes/Others/Kumorii.Kii_Rain/rainraingoaway"
+#define FILE_DIR "Codes/Others/Chatbox"
+#define FILE_DIR "Codes/Others/Chatbox/demo"
+#define FILE_DIR "Codes/Others/Display HUD"
+#define FILE_DIR "Codes/Turf"
+#define FILE_DIR "Codes/Turf/kiispotlight"
+#define FILE_DIR "Icon"
+#define FILE_DIR "Icon/basethings"
+#define FILE_DIR "Icon/Golpes"
+#define FILE_DIR "Icon/Golpes/ero icons"
+#define FILE_DIR "Icon/Golpes/internet icons"
+#define FILE_DIR "Icon/Golpes/internet icons/Guilds of Magic"
+#define FILE_DIR "Icon/Golpes/internet icons/shamanfight"
+#define FILE_DIR "Icon/Golpes/internet icons/WARBROS"
+#define FILE_DIR "Icon/Golpes/Spells2"
+#define FILE_DIR "Icon/hud"
+#define FILE_DIR "Icon/hud/Clan Choose"
+#define FILE_DIR "Icon/JutsusInGame"
+#define FILE_DIR "Icon/mapa"
+#define FILE_DIR "Icon/Projectiles"
+#define FILE_DIR "Icon/Skillcards"
+#define FILE_DIR "Icon/Turfs"
+#define FILE_DIR "Icon/Turfs/byond icons lib"
+#define FILE_DIR "Icon/Turfs/Icons"
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+#define DEBUG
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "noname.dm"
+#include "Interface.dmf"
+#include "Codes\ClanChoose.dm"
+#include "Codes\FullScreen.dm"
+#include "Codes\Item.dm"
+#include "Codes\Login.dm"
+#include "Codes\nametags.dm"
+#include "Codes\Notification.dm"
+#include "Codes\Saving.dm"
+#include "Codes\var.dm"
+#include "Codes\Attack&Skill\AttackThing.dm"
+#include "Codes\Attack&Skill\kaio.dm"
+#include "Codes\Attack&Skill\kaiomapinfo.dm"
+#include "Codes\Attack&Skill\kaiomouse.dm"
+#include "Codes\Attack&Skill\projectiles.dm"
+#include "Codes\Attack&Skill\RunningJump.dm"
+#include "Codes\Attack&Skill\SkillProcs.dm"
+#include "Codes\Attack&Skill\absolutepositions\AbsolutePositions.dm"
+#include "Codes\Attack&Skill\f_damage\Cache.dm"
+#include "Codes\Attack&Skill\f_damage\F_Damage.dm"
+#include "Codes\Attack&Skill\f_damage\F_Damage_Align.dm"
+#include "Codes\Attack&Skill\f_damage\F_Damage_Global.dm"
+#include "Codes\Attack&Skill\f_damage\F_DamageCode.dm"
+#include "Codes\Attack&Skill\Hotkey\Hotkeys.dm"
+#include "Codes\Attack&Skill\Hotkey\numbers.dm"
+#include "Codes\Attack&Skill\Jutsus\ShadowClone.dm"
+#include "Codes\Others\Chatbox\filters.dm"
+#include "Codes\Others\Chatbox\code\_procs.dm"
+#include "Codes\Others\Chatbox\code\chatbox.dm"
+#include "Codes\Others\Chatbox\code\chatbox_gui.dm"
+#include "Codes\Others\Chatbox\code\chatbox_msg.dm"
+#include "Codes\Others\Chatbox\code\client.dm"
+#include "Codes\Others\Chatbox\demo\demo.dm"
+#include "Codes\Others\Display HUD\_example.dm"
+#include "Codes\Others\Display HUD\Display HUD.dm"
+#include "Codes\Others\movement\Woo.GapNudgeMovement\movement.dm"
+#include "Codes\Turf\turf.dm"
+#include "Codes\Turf\turfcastelo.dm"
+// END_INCLUDE
+

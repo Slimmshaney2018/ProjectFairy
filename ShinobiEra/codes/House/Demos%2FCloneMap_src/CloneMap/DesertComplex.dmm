@@ -1,0 +1,15 @@
+"a" = (/turf/dirt,/area)
+"b" = (/turf/grass,/area)
+
+(1,1,1) = {"
+aaaaaaaaaa
+aaaaaaaaaa
+abaaaaaaaa
+aaaaaaaaaa
+aaaaaabaaa
+aaaaaaaaaa
+aaaabaaaaa
+aaaaaaabaa
+aaaaaaaaaa
+aaaaaaaaaa
+"}
